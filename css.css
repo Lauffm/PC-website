@@ -412,12 +412,14 @@ h2{
 	line-height:1.6;
 	padding: 0 10px;
 }
+
+
 .team
 	{
 
 	width: 100%;
 	height: 67vh;
-	background: #301934;
+	background:  #2549ad;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -452,7 +454,7 @@ h2{
 }
 .box{
 	padding: 16px;
-	background: #1b1229;
+	background: #efcc90;
 	border-radius: 15px;
 	transition: all .38s ease;
 }
@@ -461,7 +463,7 @@ h2{
 	
 	width:18%;
 	padding: 16px;
-	background: #1b1229;
+	background: #004d80;
 	border-radius: 15px;
 	transition: all .38s ease;
 }
@@ -803,9 +805,9 @@ textarea {
 
 }
 .our-blogs{
-		min-height:100vh;
+		min-height:100%;
 		width:100%;
-		background-color:#301934;
+		background-color:#2549ad;
 
 }
 .containerblog{
@@ -1471,16 +1473,16 @@ img.ad5-block.ad5-width-100\%.ad5-radius-lg {
 
 .doc-box{
 	padding: 25px;
-	background: #1b1229;
+	background: #efcc90;
 	border-radius: 15px;
 	height: 300px;
 	width: 1800px;
 
 }
 
-.docs{
+.doc-section{
 	width: 100%;
-	background: #301934;
+	background: #2549ad;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -1496,7 +1498,7 @@ img.ad5-block.ad5-width-100\%.ad5-radius-lg {
 }
 
 .doc-iconbox{
-	background: #3a3242;
+	background: #E5D3B3;
 	width: 250px;
 	height: 250px;
 	border-radius: 15px;
